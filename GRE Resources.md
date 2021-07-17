@@ -9,4 +9,4 @@
 - [X] [Gregmat's Toolkit](https://youtu.be/7g-l2-2LVPQ)
 
 # Critical Reasoning
-- [ ] [General Strategy](https://youtu.be/HQjopTJfnlg)
+- [X] [General Strategy](https://youtu.be/HQjopTJfnlg)
